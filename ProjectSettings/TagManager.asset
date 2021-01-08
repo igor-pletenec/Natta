@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ScreenShake
+  - Ground
+  - Wall
+  - Shield
+  - CoinGold
+  - CoinTurtle
+  - CoinCandy
+  - CoinLog
+  - CoinFeather
+  - CoinFish
+  - CoinDice
+  - CoinHorn
+  - CoinPowder
+  - CoinHell
+  - Trail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1297370155
+    locked: 0
+  - name: Ground
+    uniqueID: 396829635
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 1196143115
+    locked: 0
+  - name: Coin
+    uniqueID: 1667033753
+    locked: 0
+  - name: Player
+    uniqueID: 1000897619
+    locked: 0
+  - name: Buttons
+    uniqueID: 1312331625
+    locked: 0
+  - name: Frame
+    uniqueID: 1071983353
+    locked: 0
